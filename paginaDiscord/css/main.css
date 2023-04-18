@@ -1,0 +1,147 @@
+.primeira{
+    margin: 40px 0 0 300px;
+    position: absolute; 
+}
+.primeira-imagem h2{
+    display: inline-block;
+    color: #25282b;
+    margin: 80px 0 0 1100px;
+    font-size: 50px;
+    width: 20%;
+}
+.primeira-imagem a{
+    display: inline-block;
+    color: #414447;
+    margin: 20px 0 0 1100px;
+    font-size: 22px;
+    width: 20%;
+    line-height: 35px;
+}
+
+.segunda{
+    margin: 130px 0 0 900px;
+    position: absolute;
+}
+
+.segunda-imagem{
+    background-color: #f6f6f6;
+    margin-top: 150px;
+    
+} 
+
+.segunda-imagem h2{
+    position: absolute;
+    color: #25282b;
+    margin: 200px 0 0 450px;
+    font-size: 50px;
+    width: 20%;
+}
+
+.descri{
+    margin: 370px 0 170px 450px;
+    display: inline-block;
+    color: #414447;
+    font-size: 22px;
+    width: 20%;
+    line-height: 35px;
+}
+
+.terceira{
+    margin: 40px 0 0 300px;
+    position: absolute; 
+}
+.terceira-imagem h2{
+    display: inline-block;
+    color: #25282b;
+    margin: 180px 0 0 1100px;
+    font-size: 50px;
+    width: 20%;
+}
+
+.terceira-imagem a{
+    display: inline-block;
+    color: #414447;
+    margin: 40px 0 0 1100px;
+    font-size: 22px;
+    width: 20%;
+    line-height: 35px;
+}
+
+.ultima{
+    margin-top: 200px;
+    background-color: #f6f6f6;
+}
+
+.osso{
+    display: inline;
+    position: absolute;
+    color: #25282b;
+    margin: 100px 0 0 580px;
+    font-size: 50px;
+    width: 50%;
+}
+.pilantra{
+    display: inline;
+    position: absolute;
+    color: #25282b;
+    margin: 150px 0 0 780px;
+    font-size: 50px;
+    width: 50%;
+}
+
+.a1{
+    display: inline-flex;
+    color: #414447;
+    margin: 250px 0 0 450px;
+    font-size: 22px;
+    width: 70%;
+    line-height: 35px;
+}
+.a2{
+    display: inline-flex;
+    color: #414447;
+    margin: 10px 0 0 550px;
+    font-size: 22px;
+    width: 70%;
+    line-height: 35px;
+}
+
+.ult{
+    margin: 50px 0 0 400px;
+}
+
+.estrelaUm{
+    margin: -70px 0 0 1130px;
+    position: absolute;
+}
+
+.estrelaDois{
+    position: absolute;
+    margin: -70px 0 0 650px;
+}
+.estrelaTres{
+    position: absolute;
+    margin: -70px 0 0 -110px;
+}
+
+.teste{
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    background-color: #404EED;
+    padding: 20px;
+    padding-inline: 50px;
+    font-size: 17px;
+    margin: 20px 0 40px 810px;
+} 
+.teste:hover{
+    cursor: pointer;
+    background-color: #6f7af1;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.20);
+}
+
+.ultima h2{
+    margin: 150px 0 0 750px;
+    font-size: 30px;
+    color: black;
+}
